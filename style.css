@@ -95,31 +95,31 @@
 /********************************** hero-section ************************/
 
 .hero-container{
-    width: 1286px;
+    /* width: 1286px; */
     position: relative;
     left: 16px;
     margin-top: 29px;
 }
 .hero-image img{
-    width: 1286px;
+    width: 1303px;
 }
 
 /******************************** sub-hero-section ***********************/
 
 .sub-hero-container{
-    width: 1286px;
+    /* width: 1286px; */
     position: relative;
     left: 16px;
     margin-top: 20px;
 }
 .sub-hero-image img{
-    width: 1286px;
+    width: 1303px;
 }
 
 /********************************* div1 *********************************/
 .div1-container{
     height: 344px;
-    width: 1286px;
+    /* width: 1286px; */
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -129,12 +129,12 @@
 }
 #first-container{
     height: 344px;
-    width: 1069px; 
+    width: 1080px; 
     background-color:white;
 }
 #second-container{
     height: 344px;
-    width: 201px; 
+    width: 210px; 
     background-color:white;
     display: flex;
     align-items: center;
@@ -191,28 +191,27 @@
 
 .div2-container{
     height: 225.703px;
-    width: 1282px;
+     width: 100%;
     display: flex;
-    background-color: aqua;
     justify-content: space-evenly;
     position: relative;
     left: 16px;
     margin-top: 20px;
 }
 .gadget-container{
-    height:225.703px ;
-    width: 428.656px;
+    height:228.703px ;
+    width: 434.656px;
     background-color: white;
     display: flex;
     justify-content: space-evenly;
 }
 .gadget-image{
     height: 225.703px;
-    width: 420.656px;
+    width: 425.656px;
     background-color: bisque;
 }
 .gadget-image img{
-   width: 420.656px;
+   width: 425.656px;
 }
 
 /************************************** div3************************* */
