@@ -3,6 +3,9 @@
     margin: 0;
     font-family: Arial;
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 .nav-bar{
     display: flex;
     justify-content: space-around;
