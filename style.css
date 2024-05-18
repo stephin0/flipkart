@@ -72,6 +72,9 @@ body::-webkit-scrollbar{
  /*******************************************main******************************* */
 .main{
     background-color: #F1F2F4;
+    display: flex;
+    flex-direction: column;
+    
 }
 
 /******************************** undernavbar******************************* */
