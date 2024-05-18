@@ -81,7 +81,7 @@ body::-webkit-scrollbar{
     justify-content: space-around;
     align-items: center;
     height: 134px;
-    /* width: 1286px; */
+    width: 1326px;
     background-color: white;
     position: relative;
     top: 8px;
@@ -98,31 +98,31 @@ body::-webkit-scrollbar{
 /********************************** hero-section ************************/
 
 .hero-container{
-    /* width: 1286px; */
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 29px;
 }
 .hero-image img{
-    width: 1303px;
+    width: 1326px;
 }
 
 /******************************** sub-hero-section ***********************/
 
 .sub-hero-container{
-    /* width: 1286px; */
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
 }
 .sub-hero-image img{
-    width: 1303px;
+    width: 1326px;
 }
 
 /********************************* div1 *********************************/
 .div1-container{
     height: 344px;
-    /* width: 1286px; */
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -194,7 +194,7 @@ body::-webkit-scrollbar{
 
 .div2-container{
     height: 225.703px;
-     width: 100%;
+    width: 1326px;
     display: flex;
     justify-content: space-evenly;
     position: relative;
@@ -221,7 +221,7 @@ body::-webkit-scrollbar{
 
 .div3-container{
     height: 344px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -231,7 +231,7 @@ body::-webkit-scrollbar{
 }
 #first1-container{
     height: 344px;
-    width: 1286px; 
+    width: 1326px; 
     background-color:white;
 }
 /***********************************div4****************************** */
@@ -240,7 +240,7 @@ body::-webkit-scrollbar{
 
 .div5-container{
     height: 361.953px;
-    width: 1286px;
+    width: 1326px;
     background-color:white ;
     position: relative;
     left: 16px;
@@ -275,7 +275,7 @@ body::-webkit-scrollbar{
 /* ************************div6************************ */
 .div6-container{
     height: 344px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -287,7 +287,7 @@ body::-webkit-scrollbar{
 /* ************************div7************************ */
 .div7-container{
     height: 344px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -300,7 +300,7 @@ body::-webkit-scrollbar{
 
 .div8-container{
     height: 606px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -397,7 +397,7 @@ body::-webkit-scrollbar{
 
 .div9-container{
     height: 225.703px;
-    width: 1282px;
+    width: 1326px;
     display: flex;
     background-color: #F1F2F4;
     justify-content: space-evenly;
@@ -408,7 +408,7 @@ body::-webkit-scrollbar{
 /* ****************************div10*********************** */
 .div10-container{
     height: 606px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -464,7 +464,7 @@ body::-webkit-scrollbar{
 /* **********************div16************************* */
 .div16-container{
     height: 606px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -479,7 +479,7 @@ body::-webkit-scrollbar{
 /* **********************div21,div22 ***************************/
 .div21-container{
     height: 361.953px;
-    width: 1286px;
+    width: 1326px;
     background-color:white ;
     position: relative;
     left: 16px;
@@ -495,7 +495,7 @@ body::-webkit-scrollbar{
 }
 .div22-container{
     height: 344px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -507,7 +507,7 @@ body::-webkit-scrollbar{
 /* *********************div23,24*********************8 */
 .div24-container{
     height: 606px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -517,7 +517,7 @@ body::-webkit-scrollbar{
 }
 .div23-container{
     height: 344px;
-    width: 1286px;
+    width: 1326px;
     position: relative;
     left: 16px;
     margin-top: 20px;
@@ -613,7 +613,7 @@ body::-webkit-scrollbar{
 }
 .panel-b{
     height: 285px;
-    width: 1303px;
+    width: 100%;
     background-color: #212121;
     display: flex;
      justify-content: space-evenly; 
