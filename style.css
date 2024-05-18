@@ -132,18 +132,19 @@ body::-webkit-scrollbar{
 }
 #first-container{
     height: 344px;
-    width: 1080px; 
+    width: 1090px; 
     background-color:white;
 }
 #second-container{
     height: 344px;
-    width: 210px; 
+    width: 220px; 
     background-color:white;
     display: flex;
     align-items: center;
 }
 #second-container img{
-    height: 308px;
+    height: 330px;
+    width: 220px;
 }
 .image-container{
      display: flex;
@@ -161,7 +162,7 @@ body::-webkit-scrollbar{
 }
 
 .second{
-    width: 186px;
+    width: 190px;
     height: 238px;
     padding: 6px;
     border: 1px solid #E0E0E0;
@@ -193,7 +194,7 @@ body::-webkit-scrollbar{
 /* ********************************div2**************************** */
 
 .div2-container{
-    height: 225.703px;
+    height: 234.703px;
     width: 1326px;
     display: flex;
     justify-content: space-evenly;
@@ -202,19 +203,19 @@ body::-webkit-scrollbar{
     margin-top: 20px;
 }
 .gadget-container{
-    height:228.703px ;
-    width: 434.656px;
+    height:233.703px ;
+    width: 441.656px;
     background-color: white;
     display: flex;
     justify-content: space-evenly;
 }
 .gadget-image{
-    height: 225.703px;
-    width: 425.656px;
+    height: 233.703px;
+    width: 435.656px;
     background-color: bisque;
 }
 .gadget-image img{
-   width: 425.656px;
+   width: 435.656px;
 }
 
 /************************************** div3************************* */
@@ -256,7 +257,7 @@ body::-webkit-scrollbar{
 }
 .div5main{
     height: 245.33px;
-    width: 1270px;
+    width: 1326px;
     background-color: white;
     display: flex;
     justify-content: space-around;
@@ -264,11 +265,11 @@ body::-webkit-scrollbar{
     top: 60px;
 }
 .div5first{
-    width: 400px;
+    width: 410px;
     height: 245.33px;
 }
 .div5first img{
-    width: 400px;
+    width: 410px;
     /* height: 281px; */
    
 }
@@ -310,12 +311,12 @@ body::-webkit-scrollbar{
 }
 #a-container{
     height: 606px;
-    width: 418px; 
+    width: 435px; 
     background-color:white;
 }
 #b-container{
     height: 606px;
-    width: 852px; 
+    width: 875px;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -333,7 +334,7 @@ body::-webkit-scrollbar{
 }
 #b-container img{
     height: 606px;
-    width: 852px;
+    width: 875px;
    object-fit: cover;
 }
 #b-container h2{
@@ -358,7 +359,7 @@ body::-webkit-scrollbar{
    top: 35px; 
 }
 .first1{
-    width: 197px;
+    width: 217px;
     height: 261px;
     display: flex;
     justify-content: center;
@@ -366,7 +367,7 @@ body::-webkit-scrollbar{
 }
 
 .second1{
-    width: 187px;
+    width: 200px;
     height: 239px;
     padding-bottom: 12px;
     border: 1px solid #E0E0E0;
@@ -380,7 +381,7 @@ body::-webkit-scrollbar{
 .second1 img{
     width: 163px;
     height: 163px;
-    object-fit: cover;
+    object-fit: contain;
 }
 #true{
     padding-top: 15px;
@@ -527,14 +528,14 @@ body::-webkit-scrollbar{
 }
 #b3-container{
     height: 606px;
-    width: 852px; 
+    width: 875px; 
     display: flex;
     align-items: center;
     flex-wrap: wrap;
 }
 #b3-container   img{
     height: 606px;
-    width: 852px; 
+    width: 875px; 
 }
 #b3-container   h2{
     position: relative;
